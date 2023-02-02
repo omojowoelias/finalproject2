@@ -9,7 +9,7 @@ import Weather from "./app_component/weather";
 
 //make api.openweathermap.org/data/2.5/weather?q=London,uk
 
-const API_key = "fa9ddf8d90d35a19af856add2bb374ca";
+
 
 //using a class component to use state.The component has to include the extends React.Component statement, this statement 
 //creates an inheritance to React.Component, and gives your component access to React.Component's functions.
