@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:url("C:\Users\obede\weather\src\app_component\assets\pexels-brett-sayles-1431822.jpg");
+  background-size: cover;
 }
 
 code {
